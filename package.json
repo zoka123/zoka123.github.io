@@ -1,0 +1,35 @@
+{
+  "name": "zoka123.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoka123/zoka123.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoka123/zoka123.github.io/issues"
+  },
+  "homepage": "https://github.com/zoka123/zoka123.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.1.0",
+    "css-loader": "^1.0.0",
+    "extract-loader": "^2.0.1",
+    "file-loader": "^1.1.11",
+    "node-sass": "^4.9.2",
+    "normalize-scss": "^7.0.1",
+    "postcss-loader": "^2.1.6",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {}
+}
